@@ -235,3 +235,12 @@ li{
     font-weight: lighter;
     font-size: 17px;
 }
+.subtitle-list{
+    font-weight: bold;
+    font-size: 17px;
+    list-style-type: inherit;
+}
+#content-list{
+   
+    font-size: 17px;
+}
